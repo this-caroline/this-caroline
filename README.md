@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="960" alt="Caroline Marques — software engineer in Munich. A pixel-art workspace in cream, teal, and burnt orange." />
+  <img src="assets/profile-header.png" width="960" alt="Caroline Marques — software engineer in Munich. A cream-and-teal pixel-art header with Caroline holding a snowboard in the snow." />
 </p>
 
 <p align="center">
