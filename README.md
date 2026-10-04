@@ -17,7 +17,7 @@ I'm yet another software engineer based in Munich
 | On screen | Off screen |
 | :--- | :--- |
 | Building local AI tools | Bouldering |
-| Writing about software & experiments | Board games & Learning German & Looking forward for Snowboard season |
+| Writing about software & experiments | Board games, learning German, and looking forward to snowboarding season |
 
 ### ▸ Explore my corner of the internet
 
